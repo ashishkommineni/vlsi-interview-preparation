@@ -1,0 +1,10 @@
+*.log
+*.key
+*.vcd
+*.fsdb
+*.ucd
+xcelium.d/
+INCA_libs/
+waves.shm/
+build/
+results/
