@@ -18,7 +18,7 @@ Each question includes:
 
 The questions are paired with executable work in these repositories:
 
-- [14 Days of RTL](https://github.com/ashishkommineni/7-days-of-rtl)
+- [14 Days of RTL](https://github.com/ashishkommineni/14-days-of-rtl)
 - [SystemVerilog DV Learning Lab](https://github.com/ashishkommineni/systemverilog-dv-learning-lab)
 - [UVM Verification Learning Series](https://github.com/ashishkommineni/uvm-verification-learning-series)
 - the AXI4-Lite, AHB-Lite, APB3, SPI, UART, I²C, synchronous-FIFO, and
